@@ -20,7 +20,9 @@ o simplemente porque me apetece. Así de simple.
 
 ---
 
-### 🚨 En desarrollo: Código 0 *(Próximamente)*
+### 🚨 Proyecto Principal: Código 0
+
+Ecosistema software prehospitalario de misión crítica para Técnicos en Emergencias Sanitarias y personal de emergencias. Arquitectura offline-first, Wiki basada en Strapi, app operativa de campo y asistente clínico impulsado por IA.
 
 ---
 
@@ -30,7 +32,7 @@ o simplemente porque me apetece. Así de simple.
 🚨  Emergencias       Técnico TES en activo
 💻  Apps Web          TypeScript · Next.js · React · PWA
 📱  Apps Móviles      PWA de campo optimizadas
-🤖  IA Aplicada       Proyectos de salud con AI y RAG
+🤖  IA Aplicada       Proyectos de salud con RAG y Strapi
 ⚙️  Automatización    Scripts · Pipelines · Herramientas TES
 ```
 
@@ -53,14 +55,15 @@ o simplemente porque me apetece. Así de simple.
 
 ---
 
-## 🚀 Proyectos públicos destacados
+## 🚀 Proyectos Core Destacados
 
 | Proyecto | Descripción | Stack |
 |----------|------------|-------|
-| [🚑 LRemermap](https://github.com/planetazuzu/LRemermap) | Sistema de emergencias y mapas de ambulancias en La Rioja | TypeScript / React / PWA |
-| [💡 aid-kit-app](https://github.com/planetazuzu/aid-kit-app) | Recursos educativos y kits de primeros auxilios | TypeScript / React |
-| [📊 glasgow-scale-calculator](https://github.com/planetazuzu/glasgow-scale-calculator) | Calculadora de la Escala de Coma de Glasgow (Web + Python) | TypeScript / React / Python |
-| [📍 app-paciente-solicitud-seguimiento](https://github.com/planetazuzu/app-paciente-solicitud-seguimiento) | Solicitud y seguimiento de pacientes | TypeScript / React |
+| [🚑 codigo0](https://github.com/planetazuzu/codigo0) | Ecosistema prehospitalario principal | TypeScript / React / PWA |
+| [📚 code_docs](https://github.com/planetazuzu/code_docs) | Motor, fuentes y scripts del manual médico | Python / Markdown |
+| [🗺️ LRemermap](https://github.com/planetazuzu/LRemermap) | Sistema de emergencias y mapas de ambulancias en La Rioja | TypeScript / React / PWA |
+| [🤖 salvaia](https://github.com/planetazuzu/salvaia) | Asistente de inteligencia artificial para primeros auxilios | Next.js / Genkit |
+| [📖 guia_tes](https://github.com/planetazuzu/guia_tes) | Bóveda de conocimiento médico en Obsidian | Markdown |
 
 ---
 
