@@ -20,14 +20,18 @@ o simplemente porque me apetece. Así de simple.
 
 ---
 
+### 🚨 En desarrollo: Código 0 *(Próximamente)*
+
+---
+
 ### 🧠 Lo que hago
 
 ```text
 🚨  Emergencias       Técnico TES en activo
-💻  Apps Web          TypeScript · Next.js · React
-📱  Apps Móviles      PWA · Apps nativas
-🤖  IA Aplicada       Proyectos de salud con AI
-⚙️  Automatización    Scripts · Pipelines · Tools
+💻  Apps Web          TypeScript · Next.js · React · PWA
+📱  Apps Móviles      PWA de campo optimizadas
+🤖  IA Aplicada       Proyectos de salud con AI y RAG
+⚙️  Automatización    Scripts · Pipelines · Herramientas TES
 ```
 
 ---
@@ -42,24 +46,21 @@ o simplemente porque me apetece. Así de simple.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos públicos destacados
 
 | Proyecto | Descripción | Stack |
 |----------|------------|-------|
-| [🧠 salvaia](https://github.com/planetazuzu/salvaia) | IA aplicada a emergencias y salvamento | TypeScript |
-| [🤖 ia-primeros-auxilios](https://github.com/planetazuzu/ia-primeros-auxilios) | Asistente IA para primeros auxilios | TypeScript |
-| [📖 guia-tes-digital](https://github.com/planetazuzu/guia-tes-digital) | Guía digital para Técnicos de Emergencias | TypeScript |
-| [🗺️ rioja-ambulancias-mapa-pwa](https://github.com/planetazuzu/rioja-ambulancias-mapa-pwa) | Mapa PWA de ambulancias en La Rioja | TypeScript |
-| [📊 app-glsgow](https://github.com/planetazuzu/app-glsgow) | App para escala de Glasgow | - |
-| [💊 app-P10](https://github.com/planetazuzu/app-P10) | Herramienta clínica de apoyo | TypeScript |
+| [🚑 LRemermap](https://github.com/planetazuzu/LRemermap) | Sistema de emergencias y mapas de ambulancias en La Rioja | TypeScript / React / PWA |
+| [💡 aid-kit-app](https://github.com/planetazuzu/aid-kit-app) | Recursos educativos y kits de primeros auxilios | TypeScript / React |
+| [📊 glasgow-scale-calculator](https://github.com/planetazuzu/glasgow-scale-calculator) | Calculadora de la Escala de Coma de Glasgow (Web + Python) | TypeScript / React / Python |
+| [📍 app-paciente-solicitud-seguimiento](https://github.com/planetazuzu/app-paciente-solicitud-seguimiento) | Solicitud y seguimiento de pacientes | TypeScript / React |
 
 ---
 
